@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#125688</color>
+    <color name="colorPrimaryDark">#125688</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#c8e8ff</color>
+
+    <color name="milkywhite">#F9F9F9</color>
+
+
+    <color name="colorOrange">#F46758</color>
+    <color name="yelloish">#F7E075</color>
+    <color name="yes_green">#4CC7B5</color>
+    <color name="no_grey">#9A9C9B</color>
+
+    <color name="lightgreen">#79D5C4</color>
+
+
+
+</resources>
